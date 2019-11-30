@@ -24,6 +24,7 @@ function roll() {
         fo = 100;
     }
     document.getElementById("rollover").style.opacity = fo / 100.0;
+    document.getElementById("rollover").style.webkitOspacity = fo / 100.0;
     window.setTimeout(roll, to);
 }
 
