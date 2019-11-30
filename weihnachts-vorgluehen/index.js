@@ -1,6 +1,6 @@
 var to = 120;
 var mx = 400;
-var images = ["Gluehwein.jpg", "hoftaverne.jpg", "gw2.jpg", "gw3.png"];
+var images = ["Gluehwein.jpg", "hoftaverne.jpg", "gw2.jpg", "gw3.png", "gw4.jpg"];
 var idx = 0;
 var opacity = 100;
 var delta = -10;
