@@ -4,6 +4,12 @@ html, body {
     margin:0 
 }
 
+#debug {
+    color: white;
+    font-size: 40px;
+    
+}
+
 #header {
     color: yellow;
     font-size: 40px;
