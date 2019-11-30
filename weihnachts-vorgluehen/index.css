@@ -12,10 +12,38 @@ html, body {
 
 #header {
     color: yellow;
-    font-size: 40px;
+    font-size: 500%;
     width: 100%;
     font-family: 'Dancing Script';
     text-align: center
+}
+
+.termin {
+    font-family: Helvetica;
+    font-size: 200%;
+    text-align: center;
+    color: white;
+}
+
+.subtext {
+    font-family: Helvetica;
+    font-size: 150%;
+    text-align: center;
+    color: white; 
+    margin-bottom: 1em;
+}
+
+#termine {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em
+}
+
+#wo {
+    font-family: Helvetica;
+    font-size: 150%;
+    text-align: center;
+    color: yellow;
+    margin-bottom: 1.5em
 }
 
 #images {
@@ -24,5 +52,6 @@ html, body {
 }
 
 #rollover {
-    width: 60%
+    width: 60%;
+    border-radius: 5%
 }
