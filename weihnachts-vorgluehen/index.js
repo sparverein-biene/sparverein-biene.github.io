@@ -17,6 +17,7 @@ function roll() {
         }
         document.getElementById("rollover").src = images[idx];
     }
+    document.getElementById("rollover").style.filter = "alpha(opacity=" + opacity + ")";
     window.setTimeout(roll, 1000);
 }
 
