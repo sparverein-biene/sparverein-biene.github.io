@@ -3,3 +3,16 @@ html, body {
     padding: 0;
     margin:0 
 }
+
+#header {
+    color: yellow;
+    font-size: 40px;
+    width: 100%;
+    font-family: 'Dancing Script';
+    text-align: center
+}
+
+#images {
+    width: 100%;
+    text-align: center
+}
